@@ -14,6 +14,7 @@ the data structure use for learning is in form of {x1,y1,x2,y2}
 to show the first point location and the second point location to learn the direction movement
 of the straight line.
 </br>
+
 <img src="screenshot/training.PNG" data-canonical-src="screenshot/Capture.PNG"  />
 image 1
 </br>
@@ -31,6 +32,7 @@ and the model that will be used.
 for this model, it will use 4 feature to learning
 3 hidden layer with 10,20,10 number of node respectively.
 </br>
+
 <img src="screenshot/model.PNG" data-canonical-src="screenshot/Capture.PNG"  />
 image 3
 </br>
@@ -40,6 +42,7 @@ image 3
 image 4 show the code for training the model
 the training use 2000 step to learn the data provided.
 </br>
+
 <img src="screenshot/train_model.PNG" data-canonical-src="screenshot/Capture.PNG"  />
 image 4
 </br>
@@ -52,6 +55,7 @@ from training process data to avoid from over fitting the model
 over fitting is where the training model will only good in predicting the data in training 
 process only and not general.
 </br>
+
 <img src="screenshot/evaluate_model.PNG" data-canonical-src="screenshot/Capture.PNG"  />
 image 5
 </br>
@@ -61,6 +65,7 @@ image 5
 image 6 show the input taken for prediction and the code for making a prediction using the train 
 model.
 </br>
+
 <img src="screenshot/prediction.PNG" data-canonical-src="screenshot/Capture.PNG"  />
 image 6
 </br>
@@ -69,6 +74,7 @@ image 6
 
 image 7 show the menu available for this code
 </br>
+
 <img src="screenshot/menu.PNG" data-canonical-src="screenshot/Capture.PNG"  />
 image 7
 </br>
@@ -77,6 +83,7 @@ image 7
 
 image 8 show how to run this code in cmd and will give a menu available like in image 9
 </br>
+
 <img src="screenshot/start.PNG" data-canonical-src="screenshot/Capture.PNG"  />
 image 8
 </br>
