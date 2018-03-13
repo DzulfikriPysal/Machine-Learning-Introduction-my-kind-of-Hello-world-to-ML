@@ -6,7 +6,7 @@ it kinda of my "hello world" to machine learning.
 
 <img src="screenshot/training.PNG" data-canonical-src="screenshot/Capture.PNG"  />
 <div class="row">
-  <div class="text-center">
+  <div class="small-12 medium-2 columns text-center medium-text-left">
     <p>image 1</p>
   </div>
 </div>
