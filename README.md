@@ -6,6 +6,7 @@ it kinda of my "hello world" to machine learning.
 This code is to learn how to use tensorflow to build a machine learning model
 and training / evaluate the model.
 For this, i using supervised learning to develop the model
+
 image 1 show the training data set start from second line that are provided for this model and image 2
 show the evaluation data for evaluate the model in later process.
 this data have 5 column where the first 4 column is for feature data while the last column is for 
