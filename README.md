@@ -10,7 +10,9 @@ image 1 show the training data set start from second line that are provided for 
 show the evaluation data for evaluate the model in later process.
 this data have 5 column where the first 4 column is for feature data while the last column is for 
 expected output for the training data where "0" is for output 1 while "1" for output 2
-
+the data structure use for learning is in form of {x1,y1,x2,y2}
+to show the first point location and the second point location to learn the direction movement
+of the straight line.
 <img src="screenshot/training.PNG" data-canonical-src="screenshot/Capture.PNG"  />
 image 1
 
@@ -21,31 +23,47 @@ image 2
 
 ---
 
+image 3 show all the library needed for this code
+and the model that will be used.
+for this model, it will use 4 feature to learning
+3 hidden layer with 10,20,10 number of node respectively.
 <img src="screenshot/model.PNG" data-canonical-src="screenshot/Capture.PNG"  />
 image 3
 
 ---
 
+image 4 show the code for training the model
+the training use 2000 step to learn the data provided.
 <img src="screenshot/train_model.PNG" data-canonical-src="screenshot/Capture.PNG"  />
 image 4
 
 ---
+
+image 5 show the evaluation process by using the data for evaluate
+it is important to make sure that the data use in evaluation process is different
+from training process data to avoid from over fitting the model
+over fitting is where the training model will only good in predicting the data in training 
+process only and not general.
 
 <img src="screenshot/evaluate_model.PNG" data-canonical-src="screenshot/Capture.PNG"  />
 image 5
 
 ---
 
+image 6 show the input taken for prediction and the code for making a prediction using the train 
+model.
 <img src="screenshot/prediction.PNG" data-canonical-src="screenshot/Capture.PNG"  />
 image 6
 
 ---
 
+image 7 show the menu available for this code
 <img src="screenshot/menu.PNG" data-canonical-src="screenshot/Capture.PNG"  />
 image 7
 
 ---
 
+image 8 show how to run this code in cmd and will give a menu available like in image 9
 <img src="screenshot/start.PNG" data-canonical-src="screenshot/Capture.PNG"  />
 image 8
 
