@@ -3,13 +3,16 @@ Using machine learning to predict the direction of a line using a simple model
 
 This is just something that i done for learning and fun.
 it kinda of my "hello world" to machine learning.
+This code is to learn how to use tensorflow to build a machine learning model
+and training / evaluate the model.
+For this, i using supervised learning to develop the model
+image 1 show the training data set start from second line that are provided for this model and image 2
+show the evaluation data for evaluate the model in later process.
+this data have 5 column where the first 4 column is for feature data while the last column is for 
+expected output for the training data where "0" is for output 1 while "1" for output 2
 
 <img src="screenshot/training.PNG" data-canonical-src="screenshot/Capture.PNG"  />
-<div class="row">
-  <div class="small-12 medium-2 columns text-center medium-text-left">
-    <p>image 1</p>
-  </div>
-</div>
+image 1
 
 ---
 
