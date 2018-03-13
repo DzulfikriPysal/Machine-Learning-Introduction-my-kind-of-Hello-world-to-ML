@@ -5,7 +5,7 @@ This is just something that i done for learning and fun.
 it kinda of my "hello world" to machine learning.
 
 <img src="screenshot/training.PNG" data-canonical-src="screenshot/Capture.PNG"  />
-image 1
+<center>image 1</center>
 
 ---
 
